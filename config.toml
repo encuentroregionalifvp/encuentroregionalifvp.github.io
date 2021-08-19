@@ -1,13 +1,13 @@
 baseURL = "http://visualpartnership.xyz/encuentroregionalifvp/"
 languageCode = "en-us"
-title = "Minimal"
+title = "Encuentro Regional IFVP 2021"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
 googleAnalytics = ""
 
 [params]
     author = "Calin Tataru"
-    description = "Personal blog theme powered by Hugo"
+    description = "Work in progress 🚀"
     githubUsername = "#"
     accent = "red"
     showBorder = true
