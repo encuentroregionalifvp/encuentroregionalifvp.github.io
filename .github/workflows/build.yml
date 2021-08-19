@@ -1,0 +1,36 @@
+name: Build Encuentro Regional IFVP site
+on: push
+
+jobs:
+  build:
+
+    name: Build and update website
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        submodules: true
+        fetch-depth: 0
+    - name: Setup GoHugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: '0.81.0'
+    - name: Build drafts
+      run: hugo -D
+    - name: Commit Update
+      run: |
+        git submodule init
+        git submodule update
+        echo ":: Desplegando proyecto ::"
+        rm -rf docs
+        mv public/ docs/
+        git config user.name carlogilmar
+        git config user.email carlogilmar12@gmail.com
+        git add .
+        git commit -m "GitHub Actions: Build ok"
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
