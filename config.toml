@@ -1,4 +1,4 @@
-baseURL = "http://visualpartnership.xyz/encuentroregionalifvp/"
+baseURL = "https://visualpartnership.xyz/encuentroregionalifvp/"
 languageCode = "en-us"
 title = "Encuentro Regional IFVP 2021"
 theme = "minimal"
