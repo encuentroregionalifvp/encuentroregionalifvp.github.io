@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Encuentro Regional IFVP 2021</title>
-    <link>https://encuentroregionalifvp.xyz/project/</link>
+    <link>https://encuentroregionalifvp.github.io/project/</link>
     <description>Recent content in Projects on Encuentro Regional IFVP 2021</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-mx</language><atom:link href="https://encuentroregionalifvp.xyz/project/index.xml" rel="self" type="application/rss+xml" />
+    <language>es-mx</language><atom:link href="https://encuentroregionalifvp.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 1</title>
-      <link>https://encuentroregionalifvp.xyz/project/project1/</link>
+      <link>https://encuentroregionalifvp.github.io/project/project1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://encuentroregionalifvp.xyz/project/project1/</guid>
+      <guid>https://encuentroregionalifvp.github.io/project/project1/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Project 2</title>
-      <link>https://encuentroregionalifvp.xyz/project/project2/</link>
+      <link>https://encuentroregionalifvp.github.io/project/project2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://encuentroregionalifvp.xyz/project/project2/</guid>
+      <guid>https://encuentroregionalifvp.github.io/project/project2/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Project 3</title>
-      <link>https://encuentroregionalifvp.xyz/project/project3/</link>
+      <link>https://encuentroregionalifvp.github.io/project/project3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://encuentroregionalifvp.xyz/project/project3/</guid>
+      <guid>https://encuentroregionalifvp.github.io/project/project3/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
     
     <item>
       <title>Project 4</title>
-      <link>https://encuentroregionalifvp.xyz/project/project4/</link>
+      <link>https://encuentroregionalifvp.github.io/project/project4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://encuentroregionalifvp.xyz/project/project4/</guid>
+      <guid>https://encuentroregionalifvp.github.io/project/project4/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
