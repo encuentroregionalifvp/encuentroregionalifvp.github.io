@@ -2,7 +2,7 @@ baseURL = "https://encuentroregionalifvp.github.io/"
 languageCode = "es-mx"
 title = "Encuentro Regional IFVP 2021"
 theme = "minimal"
-googleAnalytics = ""
+googleAnalytics = "G-Q5EYHQQ03L"
 
 [params]
     githubUsername = "#"
