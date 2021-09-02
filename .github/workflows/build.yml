@@ -25,6 +25,9 @@ jobs:
         echo ":: Desplegando proyecto ::"
         rm -rf docs
         mv public/ docs/
+        cd docs
+        echo "encuentroregionalifvp.xyz" >> CNAME
+        cd ..
         git config user.name carlogilmar
         git config user.email carlogilmar12@gmail.com
         git add .
