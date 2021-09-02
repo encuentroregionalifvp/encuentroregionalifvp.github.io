@@ -27,6 +27,6 @@ Agradecemos la gran participación que tuvimos, y esperamos poder compartirles l
 
 Por lo pronto les compartimos estos gráficos realizados por nuestra compañera Emma:
 
-![](https://github.com/visualpartnership/gallery/blob/main/ifvp/encuentro/3fb6589e-3f25-49dc-97dc-856500734d64.JPG?raw=true)
+{{< figure src="https://github.com/visualpartnership/gallery/blob/main/ifvp/encuentro/3fb6589e-3f25-49dc-97dc-856500734d64.JPG?raw=true" class="row" >}}
 
-![](https://github.com/visualpartnership/gallery/blob/main/ifvp/encuentro/9ee73e41-6b5c-4077-84ea-3246a8cf0522.JPG?raw=true)
+{{< figure src="https://github.com/visualpartnership/gallery/blob/main/ifvp/encuentro/9ee73e41-6b5c-4077-84ea-3246a8cf0522.JPG?raw=true" class="row" >}}
