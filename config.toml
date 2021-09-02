@@ -30,8 +30,4 @@ googleAnalytics = "G-Q5EYHQQ03L"
     weight = 3
     title = "Que onda"
 
-[[menu.main]]
-    url = "/project/"
-    name = "Sobre el encuentro 🎁"
-    weight = 4
 
