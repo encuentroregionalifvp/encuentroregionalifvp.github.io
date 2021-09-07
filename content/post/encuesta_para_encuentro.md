@@ -29,4 +29,4 @@ Por lo pronto les compartimos estos gráficos realizados por nuestra compañera 
 
 {{< figure src="https://github.com/visualpartnership/gallery/blob/main/ifvp/encuentro/3fb6589e-3f25-49dc-97dc-856500734d64.JPG?raw=true" class="row" >}}
 
-{{< figure src="https://github.com/visualpartnership/gallery/blob/main/ifvp/encuentro/9ee73e41-6b5c-4077-84ea-3246a8cf0522.JPG?raw=true" class="row" >}}
+{{< figure src="https://raw.githubusercontent.com/visualpartnership/gallery/main/ifvp/encuentro/WhatsApp%20Image%202021-09-05%20at%2020.22.48.jpeg" class="row" >}}
