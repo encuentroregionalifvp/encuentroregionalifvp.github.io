@@ -76,3 +76,15 @@ footer {
 .raleway {
   font-family: 'Raleway', sans-serif;
 }
+
+.roboto {
+	font-family: 'Roboto', sans-serif;
+}
+
+.title {
+  font-size: 20px;
+}
+
+img {
+  width: "100%" !important;
+}
